@@ -3,3 +3,7 @@
 :smile:
 :sparkles:
 :tada:
+* GitHub
+* repositories
+* HTML
+* Markdown-portfolio
